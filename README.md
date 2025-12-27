@@ -28,6 +28,6 @@ MIG-Planner 是一款基于 **Adaptive Graph Attention Networks (GAT)** 的工�
 4. **v3.0**: 工业级交互终端
 
 ## 📥 快速开始
-1. 克隆仓库：`git clone https://github.com/你的用户名/MIG-Planner.git`
+1. 克隆仓库：`git clone https://github.com/bingdongni/MIG-Planner.git`
 2. 安装依赖：`pip install -r requirements.txt`
 3. 运行演示：`python scripts/demo_v3.py`
